@@ -1,0 +1,28 @@
+.rectangle {
+    height: 727px;
+    width: 380px;
+    background-color: lightskyblue;
+}
+.rectangle1 {
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 200px;
+    left: 45px;
+    border-radius: 25px;
+    background: white;
+    padding: 20px;
+    width: 100px;
+    height: 200px;
+    box-shadow: 3px 6px;
+    font-size: 24px;
+}
+.expensetags{
+    position: absolute;
+    top: 120px;
+    left: 450px;
+    height: 35px;
+    width: 100px;
+    background-color: blue;
+    background: transparent;
+}
